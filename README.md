@@ -1,4 +1,4 @@
-The meArm is a "pocket sized robot arm" I purchased online. You can buy one at hackaday.com (https://store.hackaday.com/products/mearm-pocket-sized-robot-arm).
+The meArm is a "pocket sized robot arm" I purchased online at hackaday.com.
 
 The physical part took about 3 days (including wiring it correctly onto the breadboard and arduino).
 Arduino model: R3 Uno
